@@ -3,7 +3,7 @@
 - Ho Chi Minh City.
 - My major is <b>Software Engineer</b>.
  <!-- - Currently pursuing research in <b>Computer Vision</b> and <b>Deep Learning</b>.-->
- <!-- - Open to collaborating on exciting <b>projects</b> related to software development, AI, and machine learning. -->
+ - Open to collaborating on exciting <b>projects</b> related to software development, AI, and machine learning.
 
  <!-- > **Research Interests**
 - <b>Deep Learning</b>: Focusing on model optimization, neural networks.
